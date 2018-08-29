@@ -5,5 +5,5 @@ Program 1 Contains:
 Program 2 Contains:
     Min Max tree decision making
     Alpha beta pruning
-Program 3 Contains:
+Program 3 Contains
     Reinforcement Learning
