@@ -12,7 +12,7 @@ Program 2 Contains:
     
     Alpha beta pruning
     
-Program 3 Contains
+Program 3 Contains:
 
-Reinforcement Learning
+    Reinforcement Learning
 
